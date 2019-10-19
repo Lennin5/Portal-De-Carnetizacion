@@ -1,0 +1,82 @@
+body{
+  background-attachment: fixed;
+
+}
+.pantallaprincipal{
+  max-width: 100%;
+}
+
+#cont1{
+  height: 30px;
+  background: transparent;
+  border:1px solid #00ffc9;
+  box-shadow: 0 0 10px #00ffe8;
+
+}
+
+
+#cont2{
+  height: 30px;
+  background: transparent;
+  border:1px solid #00ffc9;
+  box-shadow: 0 0 10px #00ffe8;
+  color: #530909;
+}
+
+
+#Nav{
+  border:0px solid ;
+  border-bottom:  1px solid #00ffc9;
+	background-color: #006159;
+  box-shadow: 0 0 20px #00ffe0;
+}
+
+.btn{
+  background-color: #00756b;
+  border-radius: 0px;
+  color: white;
+  border:1px solid #00ffc9;
+  box-shadow: 0 0 20px #00ffe8;
+
+}
+
+#prim{
+
+}
+
+#sec{
+
+}
+
+#botom{
+  float: right;
+
+}
+
+#image{
+    border:1px solid #00ffc9;
+    box-shadow: 0 0 15px #00ffe8;
+    border-radius: 10%;
+
+}
+
+#Card{
+    width: 20%;
+    
+}
+
+
+.col{
+
+  width: 30%;
+  height: 240px;
+
+}
+
+#Sonia{
+  border: 1px solid white;
+  height: 25px;
+  width: 50%;
+
+
+}
